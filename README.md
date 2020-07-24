@@ -1,7 +1,7 @@
 
 # meu-projeto-git
 
-[![HitCount](http://hits.dwyl.com/{username}/{project}.svg)](http://hits.dwyl.com/{username}/{project})
+[![HitCount](http://hits.dwyl.com/{RenatoDomingues}/{https://github.com/RenatoDomingues/meu-projeto-git}.svg)](http://hits.dwyl.com/{RenatoDomingues}/{https://github.com/RenatoDomingues/meu-projeto-git})
 
 #Meu primeiro Projeto no GIT
 
