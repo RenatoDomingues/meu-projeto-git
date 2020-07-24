@@ -38,7 +38,7 @@ Este projeto pode ser colocado em produção utilizando o Vercel(sem configuraç
 
 ## Author:
 
-* **RenatoDomingues** - [Linkedin](linkedin.com/in/renato-domingues-silva-094b971b0)
+* **RenatoDomingues** - [Linkedin](linkedin.com/in/renato-domingues-silva)
 
 ## Licença
 
